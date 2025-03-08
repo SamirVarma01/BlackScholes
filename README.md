@@ -31,7 +31,7 @@ pip install streamlit numpy pandas matplotlib seaborn scipy scikit-learn joblib
 Run the application with:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Machine Learning Model
